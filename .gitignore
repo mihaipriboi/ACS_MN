@@ -1,0 +1,14 @@
+# datasets and large data files
+*/walnut
+*/data
+*/.dagshub
+
+# temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.tmp
+*.log
